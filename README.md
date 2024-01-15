@@ -51,7 +51,7 @@ Set up your mapper config :
 
 ### Build
 
-To build your local package, execute following command ```mvnw package````
+To build your local package, execute following command ```mvnw package```
 
 ### Container
 
