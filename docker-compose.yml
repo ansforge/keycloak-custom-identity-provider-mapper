@@ -12,7 +12,7 @@ services:
       - "5432:5432"
 
   keycloak:
-    image: quay.io/keycloak/keycloak:22.0.5
+    image: quay.io/keycloak/keycloak:23.0.3
     command: ['start-dev']
     environment:
       DB_VENDOR: POSTGRES
