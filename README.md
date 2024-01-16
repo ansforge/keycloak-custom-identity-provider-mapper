@@ -28,6 +28,7 @@ Then, it allows to apply regex on result array.
 ## Compatibility
 
 Version 1.0.0 is compatible with Keycloak 22.0.X.
+Version 2.0.0 is compatible with Keycloak 23.0.X.
 
 ## Install
 
@@ -56,6 +57,6 @@ To build your local package, execute following command ```mvnw package```
 ### Container
 
 To test a provider, set version of your provider (jar file) in .env file :
-```MAPPER_VERSION=1.0.0```
+```MAPPER_VERSION=2.0.0```
 
 Then launch a Keycloak instance in a Docker container ```docker compose --env-file .env up```
