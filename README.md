@@ -27,8 +27,8 @@ Then, it allows to apply regex on result array.
 
 ## Compatibility
 
-Version 1.0.0 is compatible with Keycloak 22.0.X.
-Version 2.0.0 is compatible with Keycloak 23.0.X.
+- Version `1.0.0` is compatible with Keycloak `22.0.X`.
+- Version `2.0.0` is compatible with Keycloak `23.0.X`.
 
 ## Install
 
