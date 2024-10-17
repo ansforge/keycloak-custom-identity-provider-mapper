@@ -29,6 +29,7 @@ Then, it allows to apply regex on result array.
 
 - Version `1.0.0` is compatible with Keycloak `22.0.X`.
 - Version `2.0.0` is compatible with Keycloak `23.0.X`.
+- Version `3.0.0` is compatible with Keycloak `25.0.X` (nécessite java 21).
 
 ## Install
 
